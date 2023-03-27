@@ -20,9 +20,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awesome Books <a name="about-project"></a>
+# 📖 Awesome Books with ES6 <a name="about-project"></a>
 
-**Awesome Books** is a project for Microverse bootcamp to learn about adding data into the local storage and then fetching them to display using JavaScript.
+**Awesome Books with ES6** is a project for Microverse bootcamp to learn about adding data into the local storage and then fetching them to display using JavaScript ES6.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -42,7 +42,7 @@
 </details>
 
 <details>
-  <summary>Java Script</summary>
+  <summary>Java Script ES6</summary>
   <ul>
     <li><a href="#">JS</a></li>
   </ul>
@@ -82,7 +82,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 cd my-folder
-git clone https://github.com/Metaverse-Nabeel/Awesome_Books.git
+git clone https://github.com/Metaverse-Nabeel/Awesome-Books-ES6.git
 
 ### Install
 
@@ -109,16 +109,6 @@ To run the project, Open index.html in browser.
 - GitHub: [@Metaverse-Nabeel](https://github.com/Metaverse-Nabeel)
 - Twitter: [@Nabeel129](https://twitter.com/Nabeel129)
 - LinkedIn: [@Nabeel129](https://linkedin.com/in/Nabeel129)
-
-👤 **Author 2 - Ali**
-- GitHub: [@githubhandle](https://github.com/devalibello)
-- Twitter: [@twitterhandle](https://twitter.com/i_am_aalee)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ali-bello-imoukhuede/)
-
-👤 **Author 3 - Edy**
-- GitHub: [@githubhandle](https://github.com/EddxSotz)
-- Twitter: [@twitterhandle](https://twitter.com/)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
